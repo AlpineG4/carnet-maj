@@ -1,0 +1,9 @@
+{
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "notes": "Ajout d un repas par description ecrite, sans photo.",
+  "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
+  "sha256": "d83b2d0d06c98237d257bb1628b137d85e57eaacaa4d8182a10109b868d0389c",
+  "octets": 24085609,
+  "publieLe": "2026-09-01T15:13:41.378Z"
+}
