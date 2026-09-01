@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "notes": "Ajout d un repas par description ecrite, sans photo.",
+  "versionCode": 8,
+  "versionName": "1.7.0",
+  "notes": "Onglet Signaux : les cinq alertes deterministes, sur les mesures Health Connect.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "d83b2d0d06c98237d257bb1628b137d85e57eaacaa4d8182a10109b868d0389c",
-  "octets": 24085609,
-  "publieLe": "2026-09-01T15:13:41.378Z"
+  "sha256": "146374ce20ccaf2e04a09b981714cee1379ff87133eccd851731f035ab1f00d8",
+  "octets": 24095937,
+  "publieLe": "2026-09-01T23:33:52.759Z"
 }
