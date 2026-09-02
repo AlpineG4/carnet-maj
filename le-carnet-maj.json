@@ -1,10 +1,10 @@
 {
-  "versionCode": 18,
-  "versionName": "1.13.0",
-  "notes": "Dictee vocale pour decrire un repas, par la reconnaissance d'Android : elle travaille sur l'appareil, la voix ne part nulle part. Le texte s'ajoute a la zone de saisie et reste a relire.",
+  "versionCode": 19,
+  "versionName": "1.14.0",
+  "notes": "Cap proteines : suis-je en route pour atteindre mes proteines dans mon budget calorique ? En tete de journee, et sur chaque repas. La note nutritionnelle annonce desormais qu'elle flatte les plats composes, chiffre a l'appui.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "fbd6d76a0a68fcc4861071d42475a9076ce2c0d470edd75cf17882e1d98749c9",
+  "sha256": "7ee7f88c7f89c5f170c400ca1f25c23c7ed1d5117b148ae6d3382949a927e974",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24193669,
-  "publieLe": "2026-09-02T13:24:01.497Z"
+  "octets": 24199133,
+  "publieLe": "2026-09-02T14:45:46.257Z"
 }
