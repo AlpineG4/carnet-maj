@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.2",
-  "notes": "Note nutritionnelle calquee sur le Nutri-Score : une note par repas, une note du jour, et un retour sur ce qui va et ce qui est a optimiser. Sucres et acides gras satures desormais estimes ; le sel reste saisi a la main.",
+  "versionCode": 13,
+  "versionName": "1.9.3",
+  "notes": "Proteines : la masse maigre lue dans Health Connect est desormais confrontee au poids. Une masse musculaire prise pour une masse non grasse divisait la cible presque par deux.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "1c0f950121d0b3b1311dcd95ad7fe8257b0d904d81e52da5c87b022f2f049a0d",
+  "sha256": "039f34d8e32ed5f0d59cc2146a96961c6a464daf6622506ee489c3a052a884a2",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24154933,
-  "publieLe": "2026-09-02T09:12:30.114Z"
+  "octets": 24157325,
+  "publieLe": "2026-09-02T09:29:41.588Z"
 }
