@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "notes": "Onglet Signaux : les cinq alertes deterministes, sur les mesures Health Connect.",
+  "versionCode": 9,
+  "versionName": "1.8.0",
+  "notes": "Estimations confiees a Mistral par defaut (France, palier gratuit), Anthropic restant selectionnable. Besoin en proteines calcule sur la masse maigre.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "146374ce20ccaf2e04a09b981714cee1379ff87133eccd851731f035ab1f00d8",
-  "octets": 24095937,
-  "publieLe": "2026-09-01T23:33:52.759Z"
+  "sha256": "cb5222f437a945e356067291c1bdc604959112536169eff19517ed79b4c0cb80",
+  "octets": 24108693,
+  "publieLe": "2026-09-02T00:55:33.521Z"
 }
