@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "1.9.3",
-  "notes": "Proteines : la masse maigre lue dans Health Connect est desormais confrontee au poids. Une masse musculaire prise pour une masse non grasse divisait la cible presque par deux.",
+  "versionCode": 14,
+  "versionName": "1.9.4",
+  "notes": "Proteines : la tuile lisait une serie que l'onglet Corps ne rafraichissait jamais, et calculait donc sur un poids perime. Elle lit desormais le meme poids que le reste de l'onglet, et synchronise elle-meme la composition corporelle.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "039f34d8e32ed5f0d59cc2146a96961c6a464daf6622506ee489c3a052a884a2",
+  "sha256": "36b1e56f51f3140bd85c3535a0424bd8e6f514ba248efc01e74488f7820fd9cd",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24157325,
-  "publieLe": "2026-09-02T09:29:41.588Z"
+  "octets": 24158137,
+  "publieLe": "2026-09-02T09:39:07.816Z"
 }
