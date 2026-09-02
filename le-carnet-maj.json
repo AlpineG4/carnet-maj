@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8.0",
-  "notes": "Estimations confiees a Mistral par defaut (France, palier gratuit), Anthropic restant selectionnable. Besoin en proteines calcule sur la masse maigre.",
+  "versionCode": 10,
+  "versionName": "1.9.0",
+  "notes": "Onglet Peau : cotation manuelle des zones, photos gardees sur l'appareil, evolution et fiche de synthese. Tout est desormais dans l'application.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "cb5222f437a945e356067291c1bdc604959112536169eff19517ed79b4c0cb80",
-  "octets": 24108693,
-  "publieLe": "2026-09-02T00:55:33.521Z"
+  "sha256": "5abbdb7ebaed42f136e2527287f8edadab5cd1cc46fb8653475093aa05955488",
+  "octets": 24130577,
+  "publieLe": "2026-09-02T03:45:28.165Z"
 }
