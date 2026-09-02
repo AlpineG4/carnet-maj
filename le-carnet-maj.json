@@ -1,9 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.0",
-  "notes": "Onglet Peau : cotation manuelle des zones, photos gardees sur l'appareil, evolution et fiche de synthese. Tout est desormais dans l'application.",
+  "versionCode": 11,
+  "versionName": "1.9.1",
+  "notes": "Correction de l'estimation par photo : le modele Pixtral a ete retire par Mistral, remplace par mistral-medium-latest. Correction du calcul des proteines : masse maigre mesuree en priorite, poids et masse grasse apparies sur un meme jour, arrondi enonce.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "5abbdb7ebaed42f136e2527287f8edadab5cd1cc46fb8653475093aa05955488",
-  "octets": 24130577,
-  "publieLe": "2026-09-02T03:45:28.165Z"
+  "sha256": "5d4b6287e790e14c2997cfa367940502f59811f0e1cb1969f4f78338f88311a3",
+  "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
+  "octets": 24144199,
+  "publieLe": "2026-09-02T08:40:07.042Z"
 }
