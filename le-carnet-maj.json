@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "1.10.0",
-  "notes": "Retoucher ou supprimer un repas deja enregistre. Tuiles de la journee depliables : moyenne de la semaine, jours conformes et trajectoire. Zones du visage placees a partir de deux reperes poses a la main, seize zones supplementaires, halo de cadrage.",
+  "versionCode": 16,
+  "versionName": "1.11.0",
+  "notes": "Viseur interne avec halo et point rouge : on cadre le visage AVANT de declencher. Zones du visage calculees dans l'ellipse de la tete, 53 zones reparties regulierement au lieu de 32 posees a la main.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "baac0dace61bf0bcd2f99c54e305b0f1974ad3bc1b497b5eaac409b00e44741e",
+  "sha256": "b99a5ef21acce503a906f5d5553af5692624fad493b426cec81724948417acdf",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24179605,
-  "publieLe": "2026-09-02T10:06:42.156Z"
+  "octets": 24188973,
+  "publieLe": "2026-09-02T11:31:12.892Z"
 }
