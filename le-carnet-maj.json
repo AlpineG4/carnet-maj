@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.9.1",
-  "notes": "Correction de l'estimation par photo : le modele Pixtral a ete retire par Mistral, remplace par mistral-medium-latest. Correction du calcul des proteines : masse maigre mesuree en priorite, poids et masse grasse apparies sur un meme jour, arrondi enonce.",
+  "versionCode": 12,
+  "versionName": "1.9.2",
+  "notes": "Note nutritionnelle calquee sur le Nutri-Score : une note par repas, une note du jour, et un retour sur ce qui va et ce qui est a optimiser. Sucres et acides gras satures desormais estimes ; le sel reste saisi a la main.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "5d4b6287e790e14c2997cfa367940502f59811f0e1cb1969f4f78338f88311a3",
+  "sha256": "1c0f950121d0b3b1311dcd95ad7fe8257b0d904d81e52da5c87b022f2f049a0d",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24144199,
-  "publieLe": "2026-09-02T08:40:07.042Z"
+  "octets": 24154933,
+  "publieLe": "2026-09-02T09:12:30.114Z"
 }
