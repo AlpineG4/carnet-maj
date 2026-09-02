@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "1.9.4",
-  "notes": "Proteines : la tuile lisait une serie que l'onglet Corps ne rafraichissait jamais, et calculait donc sur un poids perime. Elle lit desormais le meme poids que le reste de l'onglet, et synchronise elle-meme la composition corporelle.",
+  "versionCode": 15,
+  "versionName": "1.10.0",
+  "notes": "Retoucher ou supprimer un repas deja enregistre. Tuiles de la journee depliables : moyenne de la semaine, jours conformes et trajectoire. Zones du visage placees a partir de deux reperes poses a la main, seize zones supplementaires, halo de cadrage.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "36b1e56f51f3140bd85c3535a0424bd8e6f514ba248efc01e74488f7820fd9cd",
+  "sha256": "baac0dace61bf0bcd2f99c54e305b0f1974ad3bc1b497b5eaac409b00e44741e",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24158137,
-  "publieLe": "2026-09-02T09:39:07.816Z"
+  "octets": 24179605,
+  "publieLe": "2026-09-02T10:06:42.156Z"
 }
