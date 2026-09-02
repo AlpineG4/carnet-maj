@@ -1,10 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "1.11.0",
-  "notes": "Viseur interne avec halo et point rouge : on cadre le visage AVANT de declencher. Zones du visage calculees dans l'ellipse de la tete, 53 zones reparties regulierement au lieu de 32 posees a la main.",
+  "versionCode": 17,
+  "versionName": "1.12.0",
+  "notes": "Couverture du carnet au demarrage, aux couleurs de l'icone, qui s'ouvre comme un livre pour devoiler l'application. Nom de l'application en haut a gauche.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "b99a5ef21acce503a906f5d5553af5692624fad493b426cec81724948417acdf",
+  "sha256": "beb3512ac1bef7264c36fa874047f3b503a0d4a5795a0b8ac376c68c83d6dcaf",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24188973,
-  "publieLe": "2026-09-02T11:31:12.892Z"
+  "octets": 24191881,
+  "publieLe": "2026-09-02T12:46:17.875Z"
 }
