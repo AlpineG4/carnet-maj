@@ -1,10 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "1.15.0",
-  "notes": "Ajouter ou retirer un ingredient quand le modele s'est trompe, apres une photo comme sur un repas deja enregistre. L'ingredient ajoute passe par l'estimation par description, sans facteur de calibration.",
+  "versionCode": 21,
+  "versionName": "1.16.0",
+  "notes": "Le sel present DANS les aliments est desormais estime : c'etait la composante negative la plus lourde du bareme et elle valait zero. Une pizza passe de C a D. Bouton « Tester la cle » dans Reglages, qui rend le message d'erreur exact.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "71384256a523f3b9bca5b3586880252b46a67954e5c35cef904981505692cb57",
+  "sha256": "3d09ee58d99c11342011a029b1b61f1f7f5e905e59ef215d49d56d55d15fb87d",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24205177,
-  "publieLe": "2026-09-02T20:23:24.543Z"
+  "octets": 24208249,
+  "publieLe": "2026-09-04T10:37:54.108Z"
 }
