@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "1.18.0",
-  "notes": "La tuile « Besoin en proteines » affiche desormais en grand le plancher en place (170 g), pas ce que rend la formule. Le calcul reste entier juste en dessous, avec son ecart et la provenance de son coefficient. Deux ecrans n'annoncent plus deux cibles differentes.",
+  "versionCode": 25,
+  "versionName": "1.18.1",
+  "notes": "Le calcul theorique de proteines est replie derriere un bouton : affiche en permanence a cote du plancher, il se lisait comme une cible concurrente. La cible reste 170 g, posee en consultation.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "559086a542fd323ec5515a0ad832347ff6050554a34e08c71633a9e48e0833b4",
+  "sha256": "67fccbb15593922204ff81e23073f7b348ff75333eb6037026492547ee6496ae",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24220625,
-  "publieLe": "2026-09-05T08:26:37.919Z"
+  "octets": 24221445,
+  "publieLe": "2026-09-05T08:48:52.602Z"
 }
