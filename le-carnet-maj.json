@@ -1,10 +1,10 @@
 {
-  "versionCode": 21,
-  "versionName": "1.16.0",
-  "notes": "Le sel present DANS les aliments est desormais estime : c'etait la composante negative la plus lourde du bareme et elle valait zero. Une pizza passe de C a D. Bouton « Tester la cle » dans Reglages, qui rend le message d'erreur exact.",
+  "versionCode": 24,
+  "versionName": "1.18.0",
+  "notes": "La tuile « Besoin en proteines » affiche desormais en grand le plancher en place (170 g), pas ce que rend la formule. Le calcul reste entier juste en dessous, avec son ecart et la provenance de son coefficient. Deux ecrans n'annoncent plus deux cibles differentes.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "3d09ee58d99c11342011a029b1b61f1f7f5e905e59ef215d49d56d55d15fb87d",
+  "sha256": "559086a542fd323ec5515a0ad832347ff6050554a34e08c71633a9e48e0833b4",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24208249,
-  "publieLe": "2026-09-04T10:37:54.108Z"
+  "octets": 24220625,
+  "publieLe": "2026-09-05T08:26:37.919Z"
 }
