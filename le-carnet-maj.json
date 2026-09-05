@@ -1,10 +1,10 @@
 {
-  "versionCode": 25,
-  "versionName": "1.18.1",
-  "notes": "Le calcul theorique de proteines est replie derriere un bouton : affiche en permanence a cote du plancher, il se lisait comme une cible concurrente. La cible reste 170 g, posee en consultation.",
+  "versionCode": 26,
+  "versionName": "1.19.0",
+  "notes": "Coefficients de proteines recalibres. Les anciens venaient d'une fourchette etablie sur des athletes deja secs et donnaient 220 g/j ; la litterature du surpoids en deficit place 156 a 209 g, et le plancher de 170 g y tombe. Les trois objectifs donnent desormais 170 (perte), 160 (prise), 145 g (maintien).",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "67fccbb15593922204ff81e23073f7b348ff75333eb6037026492547ee6496ae",
+  "sha256": "a0fc9f70a8d1cf19df8b8f6acbffc1684eaf48732716cae4c21efd1570e494a7",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24221445,
-  "publieLe": "2026-09-05T08:48:52.602Z"
+  "octets": 24221361,
+  "publieLe": "2026-09-05T09:06:53.468Z"
 }
