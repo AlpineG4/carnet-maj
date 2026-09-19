@@ -1,10 +1,10 @@
 {
-  "versionCode": 27,
-  "versionName": "1.20.0",
-  "notes": "Anthropic devient le fournisseur par defaut : le palier gratuit de Mistral refusait une photo reprise apres une autre. Mistral reste selectionnable. Catalogue de modeles lu sur le compte pour les deux. Sur 429 : un reessai annonce a l'ecran, puis un bouton Reessayer. Les deux 429 de Mistral sont distingues — cadence du compte, ou capacite du palier gratuit saturee pour ce modele.",
+  "versionCode": 28,
+  "versionName": "1.21.0",
+  "notes": "Navigation refondue : quatre destinations en bas et un bouton central pour ajouter. Aujourd'hui devient une pile de cartes — proteines en tete avec son plancher, energie, les repas par creneau avec les creneaux vides a remplir, puis les chiffres de controle. La date se parcourt : hier et avant, bornee a aujourd'hui.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "3dbfeb288b900c2a38d4fd007fd5d74af16db9a21b8067f34123db54f9faca86",
+  "sha256": "7d3ba8a0236841311e42a0715cfeb394f9e1254248e2387cf5230e3bde79d28d",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24229437,
-  "publieLe": "2026-09-19T14:08:09.881Z"
+  "octets": 24234637,
+  "publieLe": "2026-09-19T14:19:04.468Z"
 }
