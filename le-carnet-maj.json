@@ -1,10 +1,10 @@
 {
-  "versionCode": 26,
-  "versionName": "1.19.0",
-  "notes": "Coefficients de proteines recalibres. Les anciens venaient d'une fourchette etablie sur des athletes deja secs et donnaient 220 g/j ; la litterature du surpoids en deficit place 156 a 209 g, et le plancher de 170 g y tombe. Les trois objectifs donnent desormais 170 (perte), 160 (prise), 145 g (maintien).",
+  "versionCode": 27,
+  "versionName": "1.20.0",
+  "notes": "Anthropic devient le fournisseur par defaut : le palier gratuit de Mistral refusait une photo reprise apres une autre. Mistral reste selectionnable. Catalogue de modeles lu sur le compte pour les deux. Sur 429 : un reessai annonce a l'ecran, puis un bouton Reessayer. Les deux 429 de Mistral sont distingues — cadence du compte, ou capacite du palier gratuit saturee pour ce modele.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "a0fc9f70a8d1cf19df8b8f6acbffc1684eaf48732716cae4c21efd1570e494a7",
+  "sha256": "3dbfeb288b900c2a38d4fd007fd5d74af16db9a21b8067f34123db54f9faca86",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24221361,
-  "publieLe": "2026-09-05T09:06:53.468Z"
+  "octets": 24229437,
+  "publieLe": "2026-09-19T14:08:09.881Z"
 }
