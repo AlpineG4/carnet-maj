@@ -1,10 +1,10 @@
 {
-  "versionCode": 29,
-  "versionName": "1.22.0",
-  "notes": "Comparaison des deux fournisseurs a chaque photo d'assiette, des que les deux cles sont enregistrees : les deux estimations cote a cote, on retient l'une, l'autre est gardee avec le repas. Synthese dans Reglages — ecart moyen, biais, retenus. Note Mistral mise a jour pour l'abonnement payant.",
+  "versionCode": 30,
+  "versionName": "1.23.0",
+  "notes": "Mise en route guidee, sans etre specialiste : pour chaque fournisseur, quatre etapes — creer le compte, mettre du credit, creer la cle, la coller — la bonne page ouverte a chaque fois, et un vrai essai des que la cle est collee. Une cle mal collee ou de l'autre fournisseur est arretee avant tout appel, avec la raison.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "e7f2ac4b79503db712fa4d1d67ca2ac4756c4415722679f58551b7a2e937203e",
+  "sha256": "32178d321a13288402fd9d4e99e88e78bbd621213b37059d210766ac738b5ab5",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24244833,
-  "publieLe": "2026-09-19T15:12:35.496Z"
+  "octets": 24256037,
+  "publieLe": "2026-09-19T15:24:12.864Z"
 }
