@@ -1,10 +1,10 @@
 {
-  "versionCode": 30,
-  "versionName": "1.23.0",
-  "notes": "Mise en route guidee, sans etre specialiste : pour chaque fournisseur, quatre etapes — creer le compte, mettre du credit, creer la cle, la coller — la bonne page ouverte a chaque fois, et un vrai essai des que la cle est collee. Une cle mal collee ou de l'autre fournisseur est arretee avant tout appel, avec la raison.",
+  "versionCode": 31,
+  "versionName": "1.23.1",
+  "notes": "Quand Mistral repond avec une limite a zero requete par minute, l'app le dit en premiere ligne : compte sans plan actif, a regler sur console.mistral.ai/billing, sans refaire la cle.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "32178d321a13288402fd9d4e99e88e78bbd621213b37059d210766ac738b5ab5",
+  "sha256": "60325c926d62a13532030cc9bde938d562678410f9920844dbe4094037f3af9c",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24256037,
-  "publieLe": "2026-09-19T15:24:12.864Z"
+  "octets": 24256793,
+  "publieLe": "2026-09-19T15:54:28.105Z"
 }
