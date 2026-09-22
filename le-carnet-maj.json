@@ -1,10 +1,10 @@
 {
-  "versionCode": 31,
-  "versionName": "1.23.1",
-  "notes": "Quand Mistral repond avec une limite a zero requete par minute, l'app le dit en premiere ligne : compte sans plan actif, a regler sur console.mistral.ai/billing, sans refaire la cle.",
+  "versionCode": 32,
+  "versionName": "1.24.0",
+  "notes": "Moyenne glissante a cote du chiffre du jour, fenetre reglable (3, 7, 14, 28 jours). Trois tuiles de mesure sur l'accueil : pas, activite, FC de repos, lues via Health Connect. Interface un peu plus vivante : les cartes repondent au doigt, les jauges poussent vers leur valeur.",
   "apk": "https://raw.githubusercontent.com/AlpineG4/carnet-maj/main/le-carnet.apk",
-  "sha256": "60325c926d62a13532030cc9bde938d562678410f9920844dbe4094037f3af9c",
+  "sha256": "c916565359a64fca05170fe3b243183e353382fd8cda4a4f522717b72e0d93f1",
   "signature": "5ec5ab862f73d40fc6fe8266cbba12b04e3ce115f508e045d5b8e9e0a669832c",
-  "octets": 24256793,
-  "publieLe": "2026-09-19T15:54:28.105Z"
+  "octets": 24261469,
+  "publieLe": "2026-09-22T11:08:16.305Z"
 }
